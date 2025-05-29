@@ -1,0 +1,49 @@
+.titulo {
+    text-align: center;
+    color: rgb(255, 8, 0);
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+h1{
+font-weight: bolder;
+font-style: italic;
+text-align: center;
+text-decoration: underline;
+}
+body{
+text-align: center;
+}
+.container{
+    display: inline-block;
+}
+img
+{
+margin: 25px;
+border: 5px solid #000000;
+padding: 16px;
+background-color: #ff0202;
+}
+#btnMostrar {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #f11010;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 200px;
+}
+.hidden {
+    display: none; 
+}
+
+#textoEscondido {
+    background-color: #fff;
+    padding: 15px;
+    border: 2px solid #ff0202;
+    border-radius: 5px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+ 
